@@ -117,7 +117,7 @@ function library:AddWindow(text,keybind)
     NameHub2.Position = UDim2.new(0, 71, 0, 0)
     NameHub2.Size = UDim2.new(0, 61, 0, 27)
     NameHub2.Font = Enum.Font.GothamSemibold
-    NameHub2.Text = "HUB"
+    NameHub2.Text = ""
     NameHub2.TextColor3 = Color3.fromRGB(255,0,0)
     NameHub2.TextSize = 17.000
     NameHub2.TextXAlignment = Enum.TextXAlignment.Left
